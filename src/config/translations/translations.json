@@ -1,0 +1,48 @@
+{
+    "keys": {
+        "best_sellers": {
+            "tr": "Çok Satanlar",
+            "en": "Best Sellers"
+        },
+        "see_all": {
+            "tr": "Tümünü Gör",
+            "en": "View All"
+        },
+        "outdoor": {
+            "tr": "Dış Mekan",
+            "en": "Outdoor"
+        },
+        "books": {
+            "tr": "Kitaplar",
+            "en": "Books"
+        },
+        "electronics": {
+            "tr": "Elektronik",
+            "en": "Electronics"
+        },
+        "garden": {
+            "tr": "Bahçe",
+            "en": "Garden"
+        },
+        "product_detail": {
+            "tr": "Ürün Detayı",
+            "en": "Product Detail"
+        },
+        "color": {
+            "tr": "Renk: ",
+            "en": "Color: "
+        },
+        "material": {
+            "tr": "Materyal: ",
+            "en": "Material: "
+        },
+        "sort": {
+            "tr": "Sırala",
+            "en": "Sort"
+        },
+        "filter": {
+            "tr": "Filtrele",
+            "en": "Filter"
+        }
+    }
+}
